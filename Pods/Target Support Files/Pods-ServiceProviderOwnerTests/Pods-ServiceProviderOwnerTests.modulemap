@@ -1,0 +1,6 @@
+framework module Pods_ServiceProviderOwnerTests {
+  umbrella header "Pods-ServiceProviderOwnerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
